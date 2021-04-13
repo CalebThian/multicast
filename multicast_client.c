@@ -59,7 +59,7 @@ int main(int argc, char *argv[])
 	/* datagrams are to be received. */
 	group.imr_multiaddr.s_addr = inet_addr("226.1.1.1");
 	/* your ip address */ 
-	group.imr_interface.s_addr = inet_addr("192.168.32.143"); 
+	group.imr_interface.s_addr = inet_addr("10.0.2.15"); 
 	/* IP_ADD_MEMBERSHIP:  Joins the multicast group specified */ 
 	if(setsockopt(sd, IPPROTO_IP, IP_ADD_MEMBERSHIP, (char *)&group, sizeof(group)) < 0)
 	{

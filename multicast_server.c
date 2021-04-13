@@ -5,6 +5,8 @@
 #include <netinet/in.h>
 #include <stdio.h>
 #include <stdlib.h>
+
+
 struct in_addr localInterface;
 struct sockaddr_in groupSock;
 int sd;
@@ -33,7 +35,7 @@ int main (int argc, char *argv[ ])
 	/* Set local interface for outbound multicast datagrams. */
 	/* The IP address specified must be associated with a local, */
 	/* multicast capable interface. */
-	localInterface.s_addr = inet_addr("192.168.32.143");
+	localInterface.s_addr = inet_addr("10.0.2.15");
 	
 	/* IP_MULTICAST_IF:  Sets the interface over which outgoing multicast datagrams are sent. */
 	if(setsockopt(sd, IPPROTO_IP, IP_MULTICAST_IF, (char *)&localInterface, sizeof(localInterface)) < 0)
