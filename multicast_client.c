@@ -6,12 +6,12 @@
 #include <stdio.h>
 #include <stdlib.h>
  
-#define BUFFER_SIZE 1024	
+#define BUFFER_SIZE 1000000	
 struct sockaddr_in localSock;
 struct ip_mreq group;
 int sd;
 int datalen;
-char databuf[1024];
+char databuf[BUFFER_SIZE];
  
 int main(int argc, char *argv[])
 {
@@ -73,15 +73,14 @@ int main(int argc, char *argv[])
 	 
 	/* Read from the socket. */
 	datalen = sizeof(databuf);
-	int length = 0,flen=0;
+	int length = 0,flen=0,buffer_no=0;
 	while((length = read(sd, databuf, BUFFER_SIZE)) > 0){
 			if(length==0){
 				break;	
 			}
 			flen+=length;
-			printf("Reading datagram message...OK.\n");
-			printf("Length = %d\n",length);
-			printf("The message from multicast server is: \"%s\"\n", databuf);
+			printf("Reading datagram message %d...OK.\n",++buffer_no);
+			//printf("The message from multicast server is: \"%s\"\n", databuf);
 			bzero(databuf,BUFFER_SIZE);
 	}
 	printf("Receive file size: %.4lfKB\n",(double)flen/1000);

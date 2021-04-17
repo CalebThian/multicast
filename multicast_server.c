@@ -6,12 +6,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 1000000
 
 struct in_addr localInterface;
 struct sockaddr_in groupSock;
 int sd;
-char databuf[1024] = "Multicast test message lol!";
+char databuf[BUFFER_SIZE] = "Multicast test message lol!";
 int datalen = sizeof(databuf);
  
 int main (int argc, char *argv[ ])
@@ -71,7 +71,7 @@ int main (int argc, char *argv[ ])
 			perror("Sending datagram message error");
 		}
 		else
-	  	printf("Sending datagram message %d, with length = %d...OK\n",++buffer_no,datalen);
+	  	printf("Sending datagram message %d...OK\n",++buffer_no);
 		bzero(databuf,BUFFER_SIZE);
 	}
 	
