@@ -45,6 +45,22 @@ int main (int argc, char *argv[ ])
 	}
 	else
 	  printf("Setting the local interface...OK\n");
+	
+	//Read the file
+	FILE *fp = fopen(argv[1],"r");
+	if(fp == NULL){
+		printf("Error!Could not open file\n");
+		exit(-1);
+	}
+    
+	//Calculate the file size
+	fseek(fp,0L,SEEK_END);
+	int flen = ftell(fp);
+	fseek(fp,0L,SEEK_SET);
+	printf("FILE SIZE = %.4lfKB\n",(double)flen/1000);
+	
+
+
 	/* Send a message to the multicast group specified by the*/
 	/* groupSock sockaddr structure. */
 	/*int datalen = 1024;*/
