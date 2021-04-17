@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define BUFFER_SIZE 1024
 
 struct in_addr localInterface;
 struct sockaddr_in groupSock;
@@ -59,18 +60,19 @@ int main (int argc, char *argv[ ])
 	fseek(fp,0L,SEEK_SET);
 	printf("FILE SIZE = %.4lfKB\n",(double)flen/1000);
 	
-
-
+	//Read and Send the file
+	bzero(databuf,BUFFER_SIZE);
+	while(fread(databuf,sizeof(char),BUFFER_SIZE,fp)>0){
 	/* Send a message to the multicast group specified by the*/
 	/* groupSock sockaddr structure. */
 	/*int datalen = 1024;*/
-	if(sendto(sd, databuf, datalen, 0, (struct sockaddr*)&groupSock, sizeof(groupSock)) < 0)
-	{
-		perror("Sending datagram message error");
+		if(sendto(sd, databuf, datalen, 0, (struct sockaddr*)&groupSock, sizeof(groupSock)) < 0)
+		{
+			perror("Sending datagram message error");
+		}
+		else
+	  	printf("Sending datagram message...OK\n");
 	}
-	else
-	  printf("Sending datagram message...OK\n");
-	 
 	/* Try the re-read from the socket if the loopback is not disable
 	if(read(sd, databuf, datalen) < 0)
 	{
