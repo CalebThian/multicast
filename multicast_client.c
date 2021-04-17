@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
  
+#define BUFFER_SIZE 1024	
 struct sockaddr_in localSock;
 struct ip_mreq group;
 int sd;
@@ -72,16 +73,18 @@ int main(int argc, char *argv[])
 	 
 	/* Read from the socket. */
 	datalen = sizeof(databuf);
-	if(recvfrom(sd, databuf, datalen, 0, NULL, NULL) < 0)
-	{
-		perror("Reading datagram message error");
-		close(sd);
-		exit(1);
+	int length = 0,flen=0;
+	while((length = read(sd, databuf, BUFFER_SIZE)) > 0){
+			if(length==0){
+				break;	
+			}
+			flen+=length;
+			printf("Reading datagram message...OK.\n");
+			printf("Length = %d\n",length);
+			printf("The message from multicast server is: \"%s\"\n", databuf);
+			bzero(databuf,BUFFER_SIZE);
 	}
-	else
-	{
-		printf("Reading datagram message...OK.\n");
-		printf("The message from multicast server is: \"%s\"\n", databuf);
-	}
+	printf("Receive file size: %.4lfKB\n",(double)flen/1000);
+
 	return 0;
 }

@@ -58,11 +58,11 @@ int main (int argc, char *argv[ ])
 	fseek(fp,0L,SEEK_END);
 	int flen = ftell(fp);
 	fseek(fp,0L,SEEK_SET);
-	printf("FILE SIZE = %.4lfKB\n",(double)flen/1000);
 	
 	//Read and Send the file
 	bzero(databuf,BUFFER_SIZE);
-	while(fread(databuf,sizeof(char),BUFFER_SIZE,fp)>0){
+	int buffer_no=0;
+	while((datalen=fread(databuf,sizeof(char),BUFFER_SIZE,fp))>0){
 	/* Send a message to the multicast group specified by the*/
 	/* groupSock sockaddr structure. */
 	/*int datalen = 1024;*/
@@ -71,8 +71,14 @@ int main (int argc, char *argv[ ])
 			perror("Sending datagram message error");
 		}
 		else
-	  	printf("Sending datagram message...OK\n");
+	  	printf("Sending datagram message %d, with length = %d...OK\n",++buffer_no,datalen);
+		bzero(databuf,BUFFER_SIZE);
 	}
+	
+	//To mention stop transfer, send a buffer with size 0
+	sendto(sd, databuf, 0, 0, (struct sockaddr*)&groupSock, sizeof(groupSock));
+
+	printf("FILE SIZE = %.4lfKB\n",(double)flen/1000);
 	/* Try the re-read from the socket if the loopback is not disable
 	if(read(sd, databuf, datalen) < 0)
 	{
