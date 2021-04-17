@@ -1,0 +1,1224 @@
+This is a test file.
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+
+	  A            N         N  N         N
+         A A           NN        N  NN        N
+        A   A          N N       N  N N       N
+       A     A         N  N      N  N  N      N
+      A       A        N   N     N  N   N     N
+     AAAAAAAAAAA       N    N    N  N    N    N
+    A           A      N     N   N  N     N   N
+   A             A     N      N  N  N      N  N
+  A               A    N       N N  N       N N
+ A                 A   N        NN  N        NN
+A                   A  N         N  N         N
+
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+	  A
+         A A
+        A   A
+       A     A
+      A       A
+     AAAAAAAAAAA
+    A           A
+   A             A
+  A               A
+ A                 A
+A                   A
+
+
